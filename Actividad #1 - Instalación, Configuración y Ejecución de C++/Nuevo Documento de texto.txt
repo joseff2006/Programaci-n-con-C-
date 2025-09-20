@@ -1,0 +1,10 @@
+Aprender C++ y escribir mi primer código me hizo entender lo 
+básico de cómo funciona un lenguaje de programación. Ese sencillo
+ programa con `#include <iostream>` y la función `main` me mostró
+  que todo empieza por dar instrucciones claras a la computadora. 
+  Al imprimir en pantalla el mensaje "Hola, Mundo!" comprendí que,
+   aunque el código sea pequeño, encierra la lógica fundamental: 
+   decirle al sistema qué hacer, cómo mostrarlo y cuándo terminar. 
+   Para mí fue una primera experiencia que demuestra que C++ es un 
+   lenguaje poderoso, pero que su esencia se entiende desde lo más 
+   simple, como ese saludo inicial que marca el inicio del aprendizaje.
